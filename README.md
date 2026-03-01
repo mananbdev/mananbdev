@@ -1,71 +1,48 @@
-# Hi there, I'm Manan Bansal 👋
+<h1 align="center">Hi 👋, I'm Manan Bansal</h1>
+<h3 align="center">B.Tech Student • Future Software Engineer • India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Passionate+Developer+from+India;Building+cool+things+with+code+every+day;Learning%2C+shipping%2C+improving" alt="Typing intro banner" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manan-bansal-724848381">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/bansal_manan17">
-    <img alt="X / Twitter" src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/itsmananbansal">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.threads.net/@itsmananbansal">
-    <img alt="Threads" src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Building+Projects+That+Actually+Work;Grinding+Data+Structures+Daily;Learning+in+Public;Future+Backend+Engineer" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Who Am I?
 
-I'm a developer who enjoys building practical projects, improving problem-solving skills, and learning by doing.
-
-- 🌱 Currently focused on **Data Structures & Algorithms (C++)**
-- ⚡ Exploring **JavaScript** to build interactive experiences
-- 💡 Interested in writing clean, maintainable, and user-friendly code
+- 🎓 B.Tech student focused on becoming industry-ready (not just degree-ready)
+- 🧠 Currently mastering **Data Structures & Algorithms (C++)**
+- 🌐 Building interactive projects with **JavaScript**
+- 📈 Consistently improving problem-solving ability
+- 🔥 Documenting my growth publicly
 
 ---
 
 ## 🧰 Tech Stack
 
-| Language / Tech | Proficiency Focus |
-| --- | --- |
-| Python | Scripting, problem solving |
-| C | Foundations and low-level concepts |
-| C++ | DSA and competitive programming |
-| HTML + CSS | Building responsive interfaces |
-| JavaScript | Interactive frontend features |
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
-
-- Solve DSA problems consistently and document learnings
-- Build and publish more JavaScript mini-projects
-- Contribute to open source and collaborate with other developers
-
----
-
-## ✨ Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  Made with ❤️ in India
+  <img src="https://github-readme-stats.vercel.app/api?username=mananbansal583-git&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananbansal583-git&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mananbansal583-git&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+```cpp
+while(success != true) {
+    practice_DSA();
+    build_projects();
+    stay_consistent();
+}
