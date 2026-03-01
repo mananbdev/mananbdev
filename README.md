@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Manan Bansal</h1>
-<h3 align="center">B.Tech Student • Future Software Engineer • India 🇮🇳</h3>
+<h1 align="center">Manan Bansal</h1>
+<h3 align="center">B.Tech Student • Aspiring Software Engineer • India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Building+Projects+That+Actually+Work;Grinding+Data+Structures+Daily;Learning+in+Public;Future+Backend+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Learning+Deeply;Building+Clean+Code;Improving+Every+Day" />
 </p>
 
 ---
 
-## 🚀 Who Am I?
+## About
 
-- 🎓 B.Tech student focused on becoming industry-ready (not just degree-ready)
-- 🧠 Currently mastering **Data Structures & Algorithms (C++)**
-- 🌐 Building interactive projects with **JavaScript**
-- 📈 Consistently improving problem-solving ability
-- 🔥 Documenting my growth publicly
+I focus on building strong fundamentals and writing clean, practical code.
+
+Currently working on:
+- C++ for Data Structures & Algorithms  
+- JavaScript for interactive web projects  
+- Strengthening core programming concepts  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,git,github,vscode" />
@@ -25,24 +26,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mananbansal583-git&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananbansal583-git&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mananbansal583-git&theme=react-dark&hide_border=true" />
-</p>
+> Simplicity. Consistency. Execution.
 
 ---
 
-## 🧠 Current Focus
-
-```cpp
-while(success != true) {
-    practice_DSA();
-    build_projects();
-    stay_consistent();
-}
+<p align="center">
+  <a href="https://www.linkedin.com/in/manan-bansal-724848381">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/bansal_manan17">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/itsmananbansal">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
