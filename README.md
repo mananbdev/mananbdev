@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manan Bansal</h1>
-<h3 align="center">BTech CSE Student | Learning Web Development & AIML</h3>
+<h3 align="center">BTech CSE Student | Learning Web Development</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **JavaScript, React, and AIML**
+- 🌱 Currently learning **JavaScript, React**
 - 💻 Building projects through **The Odin Project**
-- 🚀 Interested in **Frontend Development, AI Tools & Problem Solving**
-- 📫 Reach me at: **your-email-here**
+- 🚀 Interested in **Frontend Development & Problem Solving**
+- 📫 Reach me at: **mananbansal583@gmail.com**
 - ⚡ Fun fact: I spend more time fixing bugs than writing code
 
 ---
@@ -68,7 +68,6 @@
 - 🌦️ Weather App
 - 🎵 Concert Landing Page
 - 🖥️ Odin Landing Page
-- 📚 Future AIML Projects
 
 ---
 
