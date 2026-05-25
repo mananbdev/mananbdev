@@ -1,189 +1,74 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Manan%20Bansal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Frontend%20Developer%20|%20JavaScript%20Learner&descAlignY=58&descAlign=50"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=Frontend+Developer;BTech+CSE+Student;Learning+JavaScript+%26+React;Building+Projects+Every+Day;Exploring+Open+Source"/>
-
-</div>
-
----
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 👨‍💻 About Me
-
-- 🎓 Currently pursuing **BTech in Computer Science Engineering**
-- 💻 Focused on **Frontend Development**
-- 🌱 Currently learning **JavaScript, React & Modern Web Development**
-- 🚀 Building projects through **The Odin Project**
-- 🔥 Interested in creating clean and responsive user interfaces
-- 🛠️ Exploring Git, GitHub and real-world project workflows
-- ⚡ Goal: Become a strong full-stack developer with solid fundamentals
-- 📍 From Punjab, India
-
-<br><br>
-
----
-
-# 🌐 Connect With Me
+<h1 align="center">Hey there 👋 I'm Manan Bansal</h1>
+<h3 align="center">B.Tech Student | Web Developer</h3>
 
 <p align="center">
-
-<a href="https://github.com/mananbdev" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Learning+to+build+cool+things+for+the+web;Tackling+Data+Structures+and+Algorithms;Building+projects+through+The+Odin+Project" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+### 👨‍💻 A Little About Me
 
-<div align="center">
-
-### 🚀 Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
-
----
-
-### 🧩 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react" />
+*   </> **Learning** to build cool things for the web.
+*   💡 **Currently tackling** Data Structures, Algorithms, and Frontend Development.
+*   💻 **Building projects** strictly through The Odin Project curriculum.
+*   🎯 **Goal:** Become a solid, full-stack engineer and land freelance opportunities.
+*   ☕ **Fun fact:** I debug with `console.log()` and hopes.
 
 ---
 
-### 🛠️ Tools & Platforms
+### ✨ Connect With Me
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,netlify,vercel" />
+<p align="center">
+  <a href="https://github.com/mananbdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/manan-bansal-724848381/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mananbansal583@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-</div>
+### 🛠️ Tech I Use
 
----
-
-# 📌 Current Focus
-
-```txt
-✔ Improving JavaScript fundamentals
-✔ Learning React properly
-✔ Building responsive websites
-✔ Writing cleaner code
-✔ Creating real-world projects
-✔ Growing GitHub profile consistently
-````
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<div align="center">
-
-| Project                         | Description                                |
-| ------------------------------- | ------------------------------------------ |
-| 🌦️ Weather Website             | Responsive weather app using APIs          |
-| 🎵 Concert Landing Page         | Modern UI concert/event website            |
-| 🖥️ Odin Landing Page           | Landing page project from The Odin Project |
-| 📚 JavaScript Practice Projects | Mini projects for improving logic          |
-| 🚀 Upcoming React Projects      | Future frontend projects                   |
-
-</div>
+*   **💱 Currency Converter** — Coded the core engine and business logic entirely from scratch; utilized AI strictly to generate the conceptual UI visual mockups.
+*   **✊ [Rock Paper Scissors Engine](https://rock-paper-scissor-game-zeta-one.vercel.app/)** — Interactive web game showcasing DOM manipulation and state management in JavaScript. 
+*   **🌆 [Odin Landing Page](https://mananbdev.github.io/Odin-Landing-page/)** — Fully responsive, modern landing page built from a design mockup to master CSS Flexbox layout techniques. 
+*   **🍳 [Odin Recipes](https://mananbdev.github.io/odin-recipes/)** — Multi-page recipe directory demonstrating core HTML fundamentals and relative page-to-page navigation. 
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mananbdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananbdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mananbdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananbdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mananbdev&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mananbdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+### 📝 Current Goals
 
-<div align="center">
+- [x] Strengthen fundamental JavaScript logic
+- [ ] Master Data Structures and Algorithms in C/C++
+- [x] Build unguided, real-world projects
+- [ ] Improve UI/UX skills and design architecture
+- [ ] Maintain consistent professional growth and peer accountability
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mananbdev&theme=tokyo-night&hide_border=true"/>
+<br/>
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mananbdev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mananbdev&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-* Advanced JavaScript
-* React Ecosystem
-* Responsive Web Design
-* Git & GitHub Workflow
-* Better Project Structure
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build strong frontend projects
-* 🌐 Deploy multiple live websites
-* 📦 Learn backend fundamentals
-* 🔥 Contribute to open source
-* 💼 Build a portfolio website
-
----
-
-<div align="center">
-
-## 💚 Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
+<h4 align="center">Thanks for visiting! Let's build something awesome together 🚀</h4>
