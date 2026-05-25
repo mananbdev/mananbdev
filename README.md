@@ -51,7 +51,6 @@
 - [ ] Master Data Structures & Algorithms
 - [ ] Keep up daily peer study group consistency
 - [ ] Improve UI/UX architecture skills
-- [ ] Hit my physical goal of 80kg
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
