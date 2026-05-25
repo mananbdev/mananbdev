@@ -20,6 +20,13 @@
 
 <br/>
 
+### 🔥Github streak 
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mananbdev&theme=default)](https://git.io/streak-stats)
+</div>
+
+<br/>
+
 ### 🚀 Shipped Projects
 - **💱 Currency Converter** — Coded the core conversion engine and business logic completely from scratch. Leveraged AI tooling strictly to design the UI mockups.
 - **🕹️ [Rock Paper Scissors](https://github.com/mananbdev/rock_paper-scissor_game)** — Interactive web game showcasing DOM manipulation and state management in JavaScript.
