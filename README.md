@@ -1,45 +1,55 @@
-<h1 align="center">Manan Bansal</h1>
-<h3 align="center">B.Tech Student • Aspiring Software Engineer • India 🇮🇳</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Manan%20Bansal&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Learning+Deeply;Building+Clean+Code;Improving+Every+Day" />
-</p>
-
----
-
-## About
-
-I focus on building strong fundamentals and writing clean, practical code.
-
-Currently working on:
-- C++ for Data Structures & Algorithms  
-- JavaScript for interactive web projects  
-- Strengthening core programming concepts  
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,git,github,vscode" />
-</p>
-
----
-
-## Philosophy
-
-> Simplicity. Consistency. Execution.
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manan-bansal-724848381">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=B.Tech+Student+%7C+Web+Developer;Tackling+Data+Structures+and+Algorithms;Open+to+Freelance+Opportunities" alt="Typing SVG" />
   </a>
-  <a href="https://x.com/bansal_manan17">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</div>
+
+<br/>
+
+### 🛠️ Tech Arsenal
+<div align="center">
+  <!-- These icons are highly attractive and modern -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,github,vscode" alt="Tech Stack" />
   </a>
-  <a href="https://www.instagram.com/iammananbansal">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</div>
+
+<br/>
+
+### 🚀 Shipped Projects
+- **💱 Currency Converter** — Coded the core conversion engine and business logic completely from scratch. Leveraged AI tooling strictly to design the UI mockups.
+- **🕹️ [Rock Paper Scissors](https://github.com/mananbdev/rock_paper-scissor_game)** — Interactive web game showcasing DOM manipulation and state management in JavaScript.
+
+<br/>
+
+### 📊 Developer Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mananbdev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananbdev&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<br/>
+    
+<div align="center">
+  <a href="https://leetcode.com/Manan_Bansal17">
+    <img src="https://leetcard.jacoblin.cool/Manan_Bansal17?theme=tokyonight&font=Fira%20Code&ext=activity" width="80%" />
   </a>
-</p>
+</div>
+
+<br/>
+
+### ⏱️ WakaTime Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/manan-bansal-724848381/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
