@@ -26,22 +26,6 @@
 
 <br/>
 
-### 📊 Developer Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mananbdev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananbdev&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<br/>
-    
-<div align="center">
-  <a href="https://leetcode.com/Manan_Bansal17">
-    <img src="https://leetcard.jacoblin.cool/Manan_Bansal17?theme=tokyonight&font=Fira%20Code&ext=activity" width="80%" />
-  </a>
-</div>
-
-<br/>
-
 ### ⏱️ WakaTime Coding Stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
