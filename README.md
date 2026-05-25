@@ -14,7 +14,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="./Assets/Programming.gif" alt="Classic Dev" width="220" />
+      <img src="./Assests/Programming.gif" alt="Classic Dev" width="220" />
     </td>
   </tr>
 </table>
@@ -103,6 +103,6 @@
 <br>
 
 <div align="center">
-  <img src="./Assets/donut-render.gif" alt="Spinning ASCII Donut" width="150" />
+  <img src="./Assests/donut-render.gif" alt="Spinning ASCII Donut" width="150" />
   <h4>Thanks for visiting! Let's build something awesome together 🚀</h4>
 </div>
