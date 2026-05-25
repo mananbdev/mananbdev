@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Manan%20Bansal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Frontend%20Developer%20|%20JavaScript%20Learner&descAlignY=58&descAlign=50"/>
@@ -188,4 +187,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
-```
