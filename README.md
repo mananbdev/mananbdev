@@ -1,106 +1,146 @@
-<table align="center" width="100%">
-  <tr>
-    <td width="65%" valign="center">
-      <h1 align="left">Hey there 👋<br>I'm Manan Bansal</h1>
-      <p align="left">
-        <img src="https://img.shields.io/badge/BTech_CSE_Student_%7C_Web_Developer-4B32C3?style=for-the-badge&fontColor=white" alt="Role Badge" />
-      </p>
-      <p align="left">
-        <code>&lt;/&gt;</code> Learning to build cool things for the web.<br>
-        💡 Currently learning <b>JavaScript, C++, and Data Structures</b>.<br>
-        💻 Building projects through <b>The Odin Project</b>.<br>
-        🎯 Goal: Become a solid full-stack developer.<br>
-        ☕ Fun fact: I debug with <code>console.log()</code> and hopes.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="./Assests/Programming.gif" alt="Classic Dev" width="220" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=180&section=header&text=Manan%20Bansal&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-<br>
+<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <th width="35%" align="center">✨ CONNECT WITH ME</th>
-    <th width="65%" align="center">💻 TECH I USE</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>
-      <a href="https://github.com/mananbdev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
-      <a href="https://www.linkedin.com/in/manan-bansal-724848381/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-      <br><br>
-      <a href="mailto:mananbansal583@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-      <br><br>
-    </td>
-    <td align="center">
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode,cursor&perline=5" alt="Tech Stack" />
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<img align="right" src="./Assests/Programming.gif" alt="Classic Dev" width="250" />
 
-<br>
+### 👨‍💻 The Vibe
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7AA2F7&center=false&vCenter=false&width=430&lines=B.Tech+Student+%7C+Web+Developer;Tackling+Data+Structures+and+Algorithms;Building+projects+through+The+Odin+Project" alt="Typing SVG" />
+  </a>
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <th colspan="2" align="center">📊 GITHUB STATS</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananbdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mananbdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=mananbdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+> `</>` Learning to build cool things for the web.<br>
+> 💡 Currently learning **JavaScript, C++, and Data Structures**.<br>
+> 💻 Building projects through **The Odin Project**.<br>
+> 🎯 Goal: Become a solid full-stack developer.<br>
+> ☕ Fun fact: I debug with `console.log()` and hopes.
 
-<br>
+<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <th width="50%" align="left">🚀 FEATURED PROJECTS</th>
-    <th width="50%" align="left">🎯 CURRENT GOALS</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <br>
-      <b>💱 Currency Converter</b><br>
-      ↳ <i>Coded core logic, used AI for UI mockups.</i><br><br>
-      <b>✊ <a href="https://rock-paper-scissor-game-zeta-one.vercel.app/">Rock Paper Scissors</a></b><br>
-      ↳ <i>Interactive DOM manipulation game.</i><br><br>
-      <b>🌆 <a href="https://mananbdev.github.io/Odin-Landing-page/">Odin Landing Page</a></b><br>
-      ↳ <i>CSS Flexbox layout mastery.</i><br><br>
-      <b>🍳 <a href="https://mananbdev.github.io/odin-recipes/">Odin Recipes</a></b><br>
-      ↳ <i>Multi-page HTML foundations.</i><br>
-      <br>
-    </td>
-    <td valign="top">
-      <br>
-      <ul>
-        <li>✅ Strengthen JavaScript fundamentals</li>
-        <li>✅ Build unguided, real-world projects</li>
-        <li>🔲 Master Data Structures & Algorithms</li>
-        <li>🔲 Keep up daily peer study group consistency</li>
-        <li>🔲 Improve UI/UX architecture skills</li>
-        <li>🔲 Hit my physical goal of 80kg</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ✨ Connect & Tech
+<p align="left">
+  <a href="https://github.com/mananbdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/manan-bansal-724848381/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mananbansal583@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode,cursor" alt="Tech Stack" />
+  </a>
+</p>
 
-<br>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
+
+### 🚀 Featured Projects
+*   **💱 Currency Converter** — Coded the core engine and logic entirely from scratch; utilized AI strictly to generate the conceptual UI visual mockups.
+*   **✊ [Rock Paper Scissors Engine](https://rock-paper-scissor-game-zeta-one.vercel.app/)** — Interactive web game showcasing DOM manipulation and state management in JavaScript.
+*   **🌆 [Odin Landing Page](https://mananbdev.github.io/Odin-Landing-page/)** — Fully responsive, modern landing page built from a design mockup to master CSS Flexbox layout techniques.
+*   **🍳 [Odin Recipes](https://mananbdev.github.io/odin-recipes/)** — Multi-page recipe directory demonstrating core HTML fundamentals and relative page-to-page navigation.
+
+<br/>
+
+### 📝 Current Goals
+- [x] Strengthen fundamental JavaScript logic
+- [x] Build unguided, real-world projects
+- [ ] Master Data Structures & Algorithms
+- [ ] Keep up daily peer study group consistency
+- [ ] Improve UI/UX architecture skills
+- [ ] Hit my physical goal of 80kg
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananbdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mananbdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mananbdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br/>
+
+### ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 134 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌃 Evening                77 commits          ███████████████████░░░░░░   75.49 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+HTML                     2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
+CSS                      2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+JavaScript               1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+C                        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
+
+ Last Updated on 25/05/2026 07:10:07 UTC
+<!--END_SECTION:waka-->
+
+<br/>
 
 <div align="center">
   <img src="./Assests/donut-render.gif" alt="Spinning ASCII Donut" width="150" />
