@@ -44,6 +44,75 @@
 
 ### ⏱️ WakaTime Coding Stats
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 134 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌃 Evening                77 commits          ███████████████████░░░░░░   75.49 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+HTML                     2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
+CSS                      2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+JavaScript               1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+C                        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/05/2026 07:10:07 UTC
 <!--END_SECTION:waka-->
 
 <br/>
