@@ -10,17 +10,31 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/1999azzar/1999azzar/master/resources/img/coder.gif" width="300" alt="Dynamic Coder GIF" />
+</div>
+
+<br/>
+
+### 👨‍💻 About My Journey
+I am a 2nd-semester B.Tech student from India 🇮🇳 with a relentless drive for building logic and engineering web applications. My daily routine involves conquering Data Structures and Algorithms and translating static designs into fully functional, responsive websites. I architect my logic from the ground up and leverage modern tools to execute efficiently.
+
+<br/>
+
 ### 🛠️ Tech Arsenal
 <div align="center">
-  <!-- Tech Stack Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,github,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,github,vscode,cursor,figma" alt="Tech Stack" />
   </a>
 </div>
 
 <br/>
 
-### 🔥 GitHub Streak
+### 🏆 GitHub Highlights & Streak
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mananbdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+<br/>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=mananbdev&theme=default" alt="GitHub Streak" />
@@ -30,7 +44,6 @@
 <br/>
 
 ### 🚀 Shipped Projects
-
 *   **💱 Currency Converter** — Engineered the core conversion engine entirely from scratch, utilizing AI exclusively to generate the conceptual UI visual mockups.
 *   **✊ [Rock Paper Scissors Engine](https://rock-paper-scissor-game-zeta-one.vercel.app/)** — Interactive web game showcasing DOM manipulation and state management in JavaScript. *(The Odin Project)*
 *   **🌆 [Odin Landing Page](https://mananbdev.github.io/Odin-Landing-page/)** — Fully responsive, modern landing page built from a design mockup to master CSS Flexbox layout techniques. *(The Odin Project)*
@@ -41,6 +54,12 @@
 ### ⏱️ WakaTime Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
 
 <br/>
 
