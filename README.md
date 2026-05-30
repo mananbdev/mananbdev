@@ -40,7 +40,7 @@
 ### 🚀 Featured Projects
 *   **💱 Currency Converter** — Coded the core engine and logic entirely from scratch; utilized AI strictly to generate the conceptual UI visual mockups.
 *   **✊ [Rock Paper Scissors Engine](https://rock-paper-scissor-game-zeta-one.vercel.app/)** — Interactive web game showcasing DOM manipulation and state management in JavaScript.
-*   **🌆 [Odin Landing Page](https://mananbdev.github.io/Odin-Landing-page/)** — Fully responsive, modern landing page built from a design mockup to master CSS Flexbox layout techniques.
+*   **🌆 [Odin Landing Page](https://mananbdev.github.io/odin-landing-page/)** — Fully responsive, modern landing page built from a design mockup to master CSS Flexbox layout techniques.
 *   **🍳 [Odin Recipes](https://mananbdev.github.io/odin-recipes/)** — Multi-page recipe directory demonstrating core HTML fundamentals and relative page-to-page navigation.
 
 <br/>
