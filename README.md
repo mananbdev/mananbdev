@@ -186,20 +186,77 @@ OUTPUT:
 ## `$ wakatime --week`
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2026%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 6.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 177 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-🕑  Timezone: Asia/Kolkata   |   Editor: VS Code (100%)
-
-CSS              3 hrs 5 mins    ████████░░░░░░░░░░░░   34.69 %
-JavaScript       3 hrs 2 mins    ████████░░░░░░░░░░░░   34.21 %
-HTML             2 hrs 37 mins   ███████░░░░░░░░░░░░░   29.49 %
-C                7 mins          ░░░░░░░░░░░░░░░░░░░░    1.47 %
-Git              0 secs          ░░░░░░░░░░░░░░░░░░░░    0.06 %
-
-🌞 Morning   07.14%  ██░░░░░░░░░░░░░░░░░░░░░░░
-🌆 Daytime   23.57%  ██████░░░░░░░░░░░░░░░░░░░
-🌃 Evening   69.29%  █████████████████░░░░░░░░  ← peak hours
-🌙 Night      0.00%  ░░░░░░░░░░░░░░░░░░░░░░░░░
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌆 Daytime                33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+🌃 Evening                102 commits         ██████████████████░░░░░░░   70.34 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Tuesday                  29 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               1 hr 59 mins        ████████████░░░░░░░░░░░░░   46.19 % 
+CSS                      1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+HTML                     1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/05/2026 03:29:24 UTC
 <!--END_SECTION:waka-->
 
 ---
