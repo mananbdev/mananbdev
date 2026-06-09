@@ -229,10 +229,10 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -252,7 +252,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 03:39:38 UTC
+ Last Updated on 09/06/2026 02:48:42 UTC
 <!--END_SECTION:waka-->
 
 ---
