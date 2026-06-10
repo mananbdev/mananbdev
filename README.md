@@ -186,7 +186,7 @@ OUTPUT:
 ## `$ wakatime --week`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -229,10 +229,10 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -252,7 +252,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 02:48:42 UTC
+ Last Updated on 10/06/2026 03:25:09 UTC
 <!--END_SECTION:waka-->
 
 ---
