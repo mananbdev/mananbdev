@@ -186,7 +186,7 @@ OUTPUT:
 ## `$ wakatime --week`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -229,13 +229,13 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     6 hrs 44 mins       ████████████████░░░░░░░░░   64.01 % 
-HTML                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-JavaScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Java                     6 hrs 43 mins       ████████████████░░░░░░░░░   64.02 % 
+HTML                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+JavaScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -255,7 +255,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 02:22:19 UTC
+ Last Updated on 18/07/2026 02:06:33 UTC
 <!--END_SECTION:waka-->
 
 ---
