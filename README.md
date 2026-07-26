@@ -186,6 +186,8 @@ OUTPUT:
 ## `$ wakatime --week`
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -200,6 +202,43 @@ OUTPUT:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+🌆 Daytime                34 commits          ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                102 commits         █████████████████░░░░░░░░   69.39 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Tuesday                  29 commits          █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     2 hrs 58 mins       ██████████████░░░░░░░░░░░   57.46 % 
+JavaScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -217,7 +256,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mananbdev/mananbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:21:53 UTC
+ Last Updated on 26/07/2026 02:27:57 UTC
 <!--END_SECTION:waka-->
 
 ---
