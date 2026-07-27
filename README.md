@@ -16,12 +16,11 @@
 
 ## 🎯 Right now
 
-I'm second-year CSE, third semester, self-driving toward a **FAANG SDE-1** offer — not waiting on the curriculum to get me there. Current grind is the **NeetCode 250 in Java**, running alongside prep for Chitkara's **UCA** internal program (entrance exam end of semester 4).
+I'm second-year CSE, third semester. Current grind is the **NeetCode 250 in Java**.
 
 ```
 DSA           → NeetCode 250, Java, in progress order
-Next phase    → Theory revision: OS · CN · DBMS  (6–8 wks pre-exam)
-Final phase   → Timed mock rounds simulating UCA Round 2
+
 ```
 
 <br/>
